@@ -9,4 +9,4 @@
 ## Run example
 `python3 -m examples.paraphrase`
 
-### [For example outputs - Click here](https://github.com/aimuhire/pyQuillbot/edit/main/examples/Readme.md)
+### [For example outputs - Click here](https://github.com/aimuhire/pyQuillbot/main/examples/Readme.md)

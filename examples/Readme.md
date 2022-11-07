@@ -2,12 +2,14 @@
 
 
 PyQuillbot initiated...
+``` text
 Paraphrasing 4 sentences...
 progress: 1/4
 progress: 2/4
 progress: 3/4
 progress: 4/4
 Paraphrasing complete:
+```
 
 ``` JSON
 {

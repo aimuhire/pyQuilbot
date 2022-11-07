@@ -5,10 +5,10 @@ from playwright.sync_api import sync_playwright
 
 class PyQuillbot:
     def __init__(self, autoflip='true', fthresh=9, strength=5, wikify='false', quoteIndex=1, multi_choices=False):
-        self.autoflip = "true"
-        self.fthresh = 9
-        self.strength = 5
-        self.wikify = "false"
+        self.autoflip = autoflip
+        self.fthresh = fthresh
+        self.strength = strength
+        self.wikify = wikify
         self.quoteIndex = quoteIndex if not multi_choices else 0
 
     def paraphrase(self, sentences):

@@ -1,8 +1,20 @@
 ### Paraphrase example expected output
 
+#### Input
+```python
+sentences_to_paraphrase = [
+    'I am a student',
+    'Having seen the impact of the revolution, I could not stop but wonder about its causes.',
+    'your time is up',
+    'Tell me everything you know about the language JavaScript.'
+]
+```
 
+#### Output
+
+``` 
 PyQuillbot initiated...
-``` text
+
 Paraphrasing 4 sentences...
 progress: 1/4
 progress: 2/4

@@ -4,7 +4,9 @@
 ## Install Requirements
 `pip install -r requirements.txt`
 
-## install Chromium
+## Install Chromium
 `playwright install chromium`
-## run example
+## Run example
 `python3 -m examples.paraphrase`
+
+### [For example outputs - Click here](https://github.com/aimuhire/pyQuillbot/edit/main/examples/Readme.md)
